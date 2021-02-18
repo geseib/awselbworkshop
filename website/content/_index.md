@@ -6,7 +6,7 @@ weight = 20
 
 ## Introduction to Amazon Elastic Load Balancer (ELB)
 
-### What to expect
+### What to expect BlueGreen
 
 This workshop shows some of the basic networking aspects of sharing a Load Balanced Application internally and externally.
 

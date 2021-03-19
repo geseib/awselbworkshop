@@ -1,4 +1,4 @@
-baseURL = "https://elb.vpcintro.aworkshop.io"
+baseURL = "https://elb.networking.aworkshop.io"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "App Sharing in AWS VPCs Workshop"
@@ -12,7 +12,7 @@ pygmentsStyle = "monokai"
 editURL = "https://github.com/geseib/awselbworkshop/edit/master/website/content/"
 themeVariant = "mine"
 showVisitedLinks = true
-description = "AWS Networking Workshop"
+description = "AWS ELB Networking Workshop"
 disableSearch = false
 disableAssetsBusting = true
 disableLanguageSwitchingButton = true
